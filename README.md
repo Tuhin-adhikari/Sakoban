@@ -23,7 +23,7 @@ A Python-based implementation of the classic Sokoban puzzle game using **Pygame*
 3. Run the game
    ```bash
    python game.py
-
+   ```
 
 ### Key Changes:
 - **Virtual environment setup** (optional but recommended to avoid version conflicts with Python packages).

@@ -1,4 +1,4 @@
-# Sokoban Game
+# Sakoban Game
 
 A Python-based implementation of the classic Sokoban puzzle game using **Pygame**.
 
